@@ -1,0 +1,28 @@
+{
+  "name": "បង់គួរប្រចាំថ្ងៃ",
+  "short_name": "បង់គួរ",
+  "description": "Student Daily Payment Management System",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e40af",
+  "theme_color": "#2563eb",
+  "lang": "km",
+  "dir": "ltr",
+  "categories": ["education", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
